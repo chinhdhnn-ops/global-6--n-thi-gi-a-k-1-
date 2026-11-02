@@ -1,0 +1,259 @@
+{
+  "total": 100,
+  "autoGradable": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    60,
+    61,
+    62,
+    63,
+    87,
+    88,
+    89,
+    91,
+    93,
+    96,
+    100
+  ],
+  "needsTeacherReview": [
+    {
+      "id": 31,
+      "question": "Ex.3 C1: We often don't go to school by bus.",
+      "type": "reference"
+    },
+    {
+      "id": 38,
+      "question": "Ex.7: His English teacher says that he is a good pupil.",
+      "type": "truefalse"
+    },
+    {
+      "id": 39,
+      "question": "Ex.7 Đ/S C2: In art class, he uses crayons, pencils and a ruler to draw.",
+      "type": "truefalse"
+    },
+    {
+      "id": 40,
+      "question": "Ex.7 Đ/S C3: Vernon doesn't like to work with his friends in science class.",
+      "type": "truefalse"
+    },
+    {
+      "id": 41,
+      "question": "Ex.7 Đ/S C4: It is hard for Wendy to get a good grade in math.",
+      "type": "truefalse"
+    },
+    {
+      "id": 46,
+      "question": "Ex.9/12: She gives me some English books, and she shows me how to remember words better.",
+      "type": "reference"
+    },
+    {
+      "id": 58,
+      "question": "Ex.14 (Julie–Janet): We live in the same building, so we always walk home together.",
+      "type": "reference"
+    },
+    {
+      "id": 59,
+      "question": "Ex.14 (Nga–Lan): Lan lives next to my house.",
+      "type": "reference"
+    },
+    {
+      "id": 64,
+      "question": "Ex.14 (Nga–Lan): My name is Nga and my best friend is Lan. She is my classmate.",
+      "type": "reference"
+    },
+    {
+      "id": 65,
+      "question": "Ex.14 (Nga–Lan): She is an intelligent girl. Her favourite subject is Maths, and she is really good at it.",
+      "type": "reference"
+    },
+    {
+      "id": 66,
+      "question": "Ex.14 C3: What do they usually help each other?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 67,
+      "question": "Ex.14 C2: What does Lan do to make Nga happy?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 68,
+      "question": "Ex.14: I feel really lucky to have a best friend like Lan.",
+      "type": "reference"
+    },
+    {
+      "id": 69,
+      "question": "Ex.14 (Julie–Janet) C26: What does Janet look like?",
+      "type": "reference"
+    },
+    {
+      "id": 70,
+      "question": "Ex.14 C26:",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 71,
+      "question": "Ex.14: I'm a bit quiet and shy.",
+      "type": "reference"
+    },
+    {
+      "id": 72,
+      "question": "Ex.14: Janet is kind and friendly.",
+      "type": "reference"
+    },
+    {
+      "id": 73,
+      "question": "Ex.14 C27: What is Julie like?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 74,
+      "question": "Ex.14: We like to spend our free time together.",
+      "type": "reference"
+    },
+    {
+      "id": 75,
+      "question": "Ex.14 C28: What do Julie and Janet do at break time?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 76,
+      "question": "Ex.14: At break time, we sometimes play skipping or we just sit and chat.",
+      "type": "reference"
+    },
+    {
+      "id": 77,
+      "question": "Ex.14 C29: Why do Julie and Janet walk home together after school each day?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 78,
+      "question": "Ex.14 C30: What does Julie do when she has a difficult question in her homework?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 79,
+      "question": "Ex.14: Janet usually wants to go skating in the park or go to the cinema.",
+      "type": "reference"
+    },
+    {
+      "id": 80,
+      "question": "Ex.14: I like staying at home and reading comic books.",
+      "type": "reference"
+    },
+    {
+      "id": 81,
+      "question": "Ex.14: However, we often plan our day together.",
+      "type": "reference"
+    },
+    {
+      "id": 82,
+      "question": "Ex.14 C26: What does Janet look like?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 83,
+      "question": "Ex.14 C27: What is Julie like?",
+      "type": "choice-unverified"
+    },
+    {
+      "id": 84,
+      "question": "Ex.14: Both of us are tall and slim.",
+      "type": "reference"
+    },
+    {
+      "id": 85,
+      "question": "Ex.14 (Julie–Janet): Hai bạn có ngoại hình giống nhau nhưng tính cách khác nhau.",
+      "type": "reference"
+    },
+    {
+      "id": 86,
+      "question": "Ex.13: Oak City is a great city. Oak City is very modern and beautiful.",
+      "type": "reference"
+    },
+    {
+      "id": 90,
+      "question": "Ex.13: There aren't any ugly buildings and there's some beautiful scenery around this city.",
+      "type": "reference"
+    },
+    {
+      "id": 92,
+      "question": "Ex.13: There isn't much pollution because there isn't much traffic.",
+      "type": "reference"
+    },
+    {
+      "id": 94,
+      "question": "Ex.13: ...so there aren't many accidents.",
+      "type": "reference"
+    },
+    {
+      "id": 95,
+      "question": "Ex.13: Come and spend a little time here.",
+      "type": "reference"
+    },
+    {
+      "id": 97,
+      "question": "Ex.10: On summer holidays, I often come to Da Nang to visit my grandparents.",
+      "type": "reference"
+    },
+    {
+      "id": 98,
+      "question": "Ex.10: I visit my grandparents and go sightseeing many famous landmarks here.",
+      "type": "reference"
+    },
+    {
+      "id": 99,
+      "question": "Ex.10: ...famous landmarks here such as Marble Mountains, My Khe Beach and Ba Na Hills.",
+      "type": "reference"
+    }
+  ]
+}
